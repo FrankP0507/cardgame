@@ -3,11 +3,16 @@
     width: 180px;
     position: relative;
     bottom: 700px;
+    left: 50px;
 }
 
 #Get {
     position: relative;
     bottom: 700px;
+    left: 50px;
+    background-color: limegreen;
+    height: 50px;
+    width: 100px;
 }
 
 .table {
