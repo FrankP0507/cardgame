@@ -12,8 +12,9 @@ function getCard() {
 }
 
 
+
 function stop() {
-    
+    $(".morecard").hide();
 }
 
 // comment
