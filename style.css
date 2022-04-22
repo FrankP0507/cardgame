@@ -25,6 +25,15 @@
     width: 100px;
 }
 
+#bot {
+    position: relative;
+    bottom: 700px;
+    left: 50px;
+    background-color: yellow;
+    height: 35px;
+    width: 100px;
+}
+
 .table {
     background-image: url("images/table.jpeg");
     background-position: center;
